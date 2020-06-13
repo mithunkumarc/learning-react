@@ -1,5 +1,8 @@
 #### why hooks :
 
+        Hooks are functions that let you “hook into” React state and lifecycle features from function components. 
+        Hooks don’t work inside classes — they let you use React without classes
+
         with hooks, extract stateful logic from a component so it can be tested independently
         and reused. Hooks allow you to reuse stateful logic without changing your component
         hierarchy. This makes it easy to share hooks among many components or with community
