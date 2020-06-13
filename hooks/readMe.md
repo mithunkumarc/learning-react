@@ -33,3 +33,8 @@
 
         Only call Hooks at the top level. Don’t call Hooks inside loops, conditions, or nested functions.
         Only call Hooks from React function components. Don’t call Hooks from regular JavaScript functions.
+        
+        
+#### tobe covered :
+
+        using useEffect as lifecycle methods same as component
