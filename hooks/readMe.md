@@ -11,3 +11,14 @@
 
         Hooks let you split one component into smaller functions based on what pieces are related 
         (such as setting up a subscription or fetching data),
+
+#### useEffect : 
+
+        Data fetching, subscriptions, or manually changing the DOM ,these operations called “side effects”  
+        because they can affect other components and can’t be done during rendering.
+
+        The Effect Hook, useEffect, adds the ability to perform side effects from a function component. 
+        It serves the same purpose as componentDidMount, componentDidUpdate, and componentWillUnmount in React classes, 
+        but unified into a single API. 
+       
+        useState works asynchronously , so updated state can be found in useEffect rather than immediate after using setState.
