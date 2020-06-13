@@ -5,3 +5,6 @@
         hierarchy. This makes it easy to share hooks among many components or with community
 
 
+
+        Hooks let you split one component into smaller functions based on what pieces are related 
+        (such as setting up a subscription or fetching data),
