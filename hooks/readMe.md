@@ -38,3 +38,20 @@
 #### tobe covered :
 
         using useEffect as lifecycle methods same as component
+
+
+#### hooks list
+
+1. Basic Hooks
+   1. useState
+   2. useEffect
+   3. useContext
+2. Additional Hooks
+   1. useReducer
+   2. useCallback
+   3. useMemo
+   4. useRef
+   5. useImperativeHandle
+   6. useLayoutEffect
+   7. useDebugValue
+
