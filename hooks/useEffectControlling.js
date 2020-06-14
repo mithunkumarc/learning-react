@@ -35,3 +35,17 @@ render(
   ,
   document.getElementById('root')
 )
+
+
+/*
+  useEffect fires whene either name or mileage changes
+      useEffect(() => {
+        console.log('something happened')
+      },[name,mileage])     
+
+ignore state changes
+   useEffect(() => {
+    console.log('something happened')
+  },[]) // useEffect wont be fired, works one time when component is mounted  
+
+*/
