@@ -15,3 +15,5 @@
 
         https://stackblitz.com/edit/react-router-starter
         https://www.robinwieruch.de/conditional-rendering-react
+        https://stackblitz.com/edit/react-book-list
+        https://stackblitz.com/edit/react-check-box-list
