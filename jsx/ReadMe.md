@@ -38,15 +38,16 @@ jsx :
 
 9.   jsx represents object
 
-        // jsx 
-        const element = (
-          <h1 className="greeting">
-            Hello, world!
-          </h1>
-        );
-        // same as above
-        const element = React.createElement(
-          'h1',
-          {className: 'greeting'},
-          'Hello, world!'
-        );
+
+                // jsx 
+                const element = (
+                  <h1 className="greeting">
+                    Hello, world!
+                  </h1>
+                );
+                // same as above
+                const element = React.createElement(
+                  'h1',
+                  {className: 'greeting'},
+                  'Hello, world!'
+                );
