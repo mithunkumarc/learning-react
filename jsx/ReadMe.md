@@ -56,3 +56,7 @@ jsx :
 10.  Capitalized types indicate that the JSX tag is referring to a React component. 
 
                 <Foo />
+                
+#### todo 
+
+        https://reactjs.org/docs/jsx-in-depth.html : work on these examples
