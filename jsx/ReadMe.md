@@ -26,4 +26,27 @@ jsx :
 6.  Elements must be closed
 
         const myelement = <input type="text" />;
+        
+7.  attributes can be added , it must be in camelcase  
 
+        const nav = <span className="menu navigation-menu">Menu</span>      
+
+8.   if tag is empty close it immediately
+
+        const myelement = <input type="text" />;
+
+
+9.   jsx represents object
+
+        // jsx 
+        const element = (
+          <h1 className="greeting">
+            Hello, world!
+          </h1>
+        );
+        // same as above
+        const element = React.createElement(
+          'h1',
+          {className: 'greeting'},
+          'Hello, world!'
+        );
