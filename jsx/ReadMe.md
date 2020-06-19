@@ -29,11 +29,11 @@ jsx :
         
 7.  attributes can be added , it must be in camelcase  
 
-        const nav = <span className="menu navigation-menu">Menu</span>      
+                const nav = <span className="menu navigation-menu">Menu</span>      
 
 8.   if tag is empty close it immediately
 
-        const myelement = <input type="text" />;
+                const myelement = <input type="text" />;
 
 
 9.   jsx represents object
