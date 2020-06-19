@@ -51,3 +51,8 @@ jsx :
                   {className: 'greeting'},
                   'Hello, world!'
                 );
+                
+
+10.  Capitalized types indicate that the JSX tag is referring to a React component. 
+
+                <Foo />
