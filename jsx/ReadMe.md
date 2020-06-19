@@ -9,6 +9,9 @@ jsx :
 4.  you can write expressions in JSX
 
         const myelement = <h1>React is {5 + 5} times better with JSX</h1>;
+        // example 2
+        const name = 'Josh Perez';
+        const element = <h1>Hello, {name}</h1>;
 
 
 5.  must have one top level element
