@@ -12,6 +12,7 @@
 
 
 ### todo
+        sending className style props/jsx
         https://reactjs.org/docs/faq-styling.html
         https://stackblitz.com/edit/react-router-starter
         https://www.robinwieruch.de/conditional-rendering-react
