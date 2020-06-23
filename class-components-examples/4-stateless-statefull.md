@@ -2,6 +2,12 @@ any component it can be functional or class component , they can be classified i
 
             statefull component : states are defined. useState or state({var : value})
             stateless component : stares are not defined. props can exist.
+            
+Stateful and stateless components have many different names.
+
+            They are also known as:
+            – Container vs Presentational components
+            – Smart vs Dumb components            
 
 index.js
 
