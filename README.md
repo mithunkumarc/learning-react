@@ -7,6 +7,10 @@
         cd my-app
         npm start
 
+#### Javascript expression must be written inside curly braces inside JSX
+
+#### jsx can be assigned to variable
+
 
 #### jsx : allows to execute javascript inside html elements.
 
