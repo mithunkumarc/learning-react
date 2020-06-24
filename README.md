@@ -8,6 +8,10 @@
         npm start
 
 
+#### jsx : allows to execute javascript inside html elements.
+
+         <div>{javascript expression}</div>       
+
 #### functional component : https://www.robinwieruch.de/react-function-component
 
 
