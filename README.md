@@ -12,6 +12,17 @@
 
          <div>{javascript expression}</div>       
 
+#### jsx as a value to variable
+
+        let view = (
+                        <div>hello</div>
+                    )
+                    
+         in component render/functional comp return
+         
+                <p>{view}</p>
+
+
 #### functional component : https://www.robinwieruch.de/react-function-component
 
 
