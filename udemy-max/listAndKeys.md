@@ -4,7 +4,7 @@
 4.  Most often you would use IDs from your data as keys. eg: person.id  , student.id  
 5.  We don’t recommend using indexes for keys if the order of items may change.  
 6.  Using index negatively impact performance and may cause issues with component state.
-
+7.  keys are not visible in dom
 
 index.js
 
@@ -14,7 +14,7 @@ index.js
         function NumberList(props) {
           const numbers = props.numbers;
           const listItems = numbers.map(number =>
-            //cant see in dom after render
+            //cant see key in dom after render
             <li key={number.toString()}>{number}</li>     // dont use index as keys
           );
           return (
