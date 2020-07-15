@@ -41,3 +41,10 @@
         https://flaviocopes.com/tags/react/
         https://stackblitz.com/edit/react-axios-api
         https://github.com/taniarascia/react-hooks
+
+
+### watch out :
+
+        https://dev.to/t/react
+        https://hashnode.com/n/reactjs
+        https://www.reddit.com/r/reactjs/
