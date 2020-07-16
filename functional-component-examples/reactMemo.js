@@ -14,6 +14,16 @@
     console.log("hello cmp");
     return <div>hello component</div>
   })
+  
+  // there is no use of memo if component state/props is changed, component will render every time when there is a change in props/state
+  const Hello = React.memo((props) => {
+    console.log("hello cmp",props.c);
+    return <div>hello component</div>
+  })
+  
+  //inside parent comp
+  <Hello c={this.state.counter} />
+
 
 */
 
