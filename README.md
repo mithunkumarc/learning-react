@@ -42,6 +42,7 @@
         https://stackblitz.com/edit/react-axios-api
         https://github.com/taniarascia/react-hooks
         https://material-ui.com/
+        https://www.valentinog.com/blog/hooks/
 
 
 ### watch out :
