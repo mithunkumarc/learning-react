@@ -14,3 +14,7 @@
 
         https://stackblitz.com/edit/mr-props-children
         reference : https://reactjs.org/docs/composition-vs-inheritance.html
+
+5. React.Fragments : can be used to avoid extra div element. <Fragment>your tags</Fragment>. alternate to Fragment tag is empty tag <>your tags</>. like ngcontainer in angular.
+
+        https://stackblitz.com/edit/mr-fragments
