@@ -9,3 +9,8 @@
 3. reusable component. file name should begin with lowercase, functional component name should begin with upper case(bestpractice). native html tags begin with lowercase
         
         https://stackblitz.com/edit/mr-reusable-component
+
+4. props.children, content of component can be accessed by prop.childre. eg : <Person>raghu</Person>, raghu can be accessed by props.children in Person component. this pattern is componsition. (in the place of children : you can send component too). 
+
+        https://stackblitz.com/edit/mr-props-children
+        reference : https://reactjs.org/docs/composition-vs-inheritance.html
