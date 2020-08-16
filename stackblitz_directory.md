@@ -31,3 +31,7 @@
         
         eg : {data=='confidential' && <div>hello</div>}
         https://stackblitz.com/edit/mr-condition-render-inside-jsx
+        
+9. hoc : higher order component : receives component as parameter and manage props/view and returns same component. 
+
+        https://stackblitz.com/edit/mr-higher-order-component
