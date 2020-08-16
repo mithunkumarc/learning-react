@@ -18,3 +18,7 @@
 5. React.Fragments : can be used to avoid extra div element. <Fragment>your tags</Fragment>. alternate to Fragment tag is empty tag <>your tags</>. like ngcontainer in angular.
 
         https://stackblitz.com/edit/mr-fragments
+
+6. destructring props : const {prop1, prop2, ...} = {...props}, prop1 and prop2 must exist in props as keys.
+
+        https://stackblitz.com/edit/mr-destructuring-props
