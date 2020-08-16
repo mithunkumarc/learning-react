@@ -27,6 +27,7 @@
 
         https://stackblitz.com/edit/mr-conditional-rendering
 
-8. conditional rendering inside jsx : tags can be displayed or not using condition inside jsx.  eg : {data=='confidential' && <div>hello</div>}
-
+8. conditional rendering inside jsx : tags can be displayed or not using condition inside jsx. 
+        
+        eg : {data=='confidential' && <div>hello</div>}
         https://stackblitz.com/edit/mr-condition-render-inside-jsx
