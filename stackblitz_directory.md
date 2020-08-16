@@ -22,3 +22,7 @@
 6. destructring props : const {prop1, prop2, ...} = {...props}, prop1 and prop2 must exist in props as keys.
 
         https://stackblitz.com/edit/mr-destructuring-props
+
+7. conditional rendering : displaying component can be decided using props. if condition deosn't meet, u can just return <></> else return 'your jsx dom'
+
+        https://stackblitz.com/edit/mr-conditional-rendering
