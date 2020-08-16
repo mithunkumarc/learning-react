@@ -26,3 +26,7 @@
 7. conditional rendering : displaying component can be decided using props. if condition deosn't meet, u can just return <></> else return 'your jsx dom'
 
         https://stackblitz.com/edit/mr-conditional-rendering
+
+8. conditional rendering inside jsx : tags can be displayed or not using condition inside jsx.  eg : {data=='confidential' && <div>hello</div>}
+
+        https://stackblitz.com/edit/mr-condition-render-inside-jsx
