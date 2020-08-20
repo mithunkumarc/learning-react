@@ -35,3 +35,7 @@
 9. hoc : higher order component : receives component as parameter and manage props/view and returns same component. 
 
         https://stackblitz.com/edit/mr-higher-order-component
+
+10. useState: used maitain state of component. note: event names, sending data from event , always use setValue to change state.
+
+        https://stackblitz.com/edit/mr-usestate-example
