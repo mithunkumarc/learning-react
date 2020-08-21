@@ -39,3 +39,9 @@
 10. useState: used maitain state of component. note: event names, sending data from event , always use setValue to change state.
 
         https://stackblitz.com/edit/mr-usestate-example
+
+11. list : javascript inside jsx dom. write always javascript inside {} inside jsx(react dom).
+        
+        https://stackblitz.com/edit/mr-list-jsx
+        
+        
