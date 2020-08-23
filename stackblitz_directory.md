@@ -44,4 +44,7 @@
         
         https://stackblitz.com/edit/mr-list-jsx
         
+12. component communication, parent should sent event handler to child, child should respond to parent. parent should maintain state. 
+
+        https://stackblitz.com/edit/mr-component-communication
         
