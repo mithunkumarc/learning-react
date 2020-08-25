@@ -45,7 +45,8 @@
         https://stackblitz.com/edit/mr-list-jsx
         
 12. component communication, parent should sent event handler to child, child should respond to parent. parent should maintain state. 
-
+        
+        by default react makes one way communication parent to child, you can use useRef or onChange to make child component to communicate parent 
         https://stackblitz.com/edit/mr-component-communication
         
 13. conditional view decide, useRef, forwardRef, conditional inside jsx
