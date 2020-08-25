@@ -48,3 +48,6 @@
 
         https://stackblitz.com/edit/mr-component-communication
         
+13. conditional view decide, useRef, forwardRef, conditional inside jsx
+
+        https://stackblitz.com/edit/mr-conditional-view-useref
