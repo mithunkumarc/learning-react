@@ -52,3 +52,7 @@
 13. conditional view decide, useRef, forwardRef, conditional inside jsx
 
         https://stackblitz.com/edit/mr-conditional-view-useref
+        
+14. useEffect with fetch example : useEffect can be used to update fields, (read more)
+
+        https://stackblitz.com/edit/mr-useeffect-example
