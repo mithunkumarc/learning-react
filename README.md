@@ -50,6 +50,7 @@
         https://dev.to/t/react
         https://hashnode.com/n/reactjs
         https://www.reddit.com/r/reactjs/
+        https://malcoded.com/posts/?filter=react
         
 #### material
 
