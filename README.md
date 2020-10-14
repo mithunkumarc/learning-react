@@ -47,6 +47,7 @@
 
 ### watch out :
 
+        https://www.positronx.io/react-js/
         https://dev.to/t/react
         https://hashnode.com/n/reactjs
         https://www.reddit.com/r/reactjs/
