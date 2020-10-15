@@ -52,6 +52,7 @@
         https://hashnode.com/n/reactjs
         https://www.reddit.com/r/reactjs/
         https://malcoded.com/posts/?filter=react
+        https://bezkoder.com/category/react/
         
 #### material
 
