@@ -53,6 +53,9 @@
         https://www.reddit.com/r/reactjs/
         https://malcoded.com/posts/?filter=react
         https://bezkoder.com/category/react/
+        https://www.freecodecamp.org/news/tag/react/
+        https://flaviocopes.com/tags/react/
+        https://www.valentinog.com/blog/hooks/
         
 #### material
 
