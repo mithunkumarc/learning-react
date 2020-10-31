@@ -1,3 +1,11 @@
+useRef : used to refer/access dom
+
+        The useRef Hook allows us to create mutable variables in functional components. 
+        It's useful for accessing DOM nodes/React elements, and to store mutable variables without triggering a re-render.
+
+        autofocus
+        passing value from child component(you could use event handler for this)
+
 
 https://stackblitz.com/edit/mr-conditional-view-useref
 
