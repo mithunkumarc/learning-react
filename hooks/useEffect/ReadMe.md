@@ -1,3 +1,5 @@
+##### useEffect : like useState, useRef , useEffect can also be declared multiple times
+
 useEffect can be used as  
 1. componentDidMount(after component created), 
 2. componentWillUnmount(before component destroyed) and 
