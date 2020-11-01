@@ -27,3 +27,7 @@ todo :
          list api request
          axios
          race condition : https://academind.com/learn/react/useeffect-abort-http-requests/
+         
+         https://www.robinwieruch.de/react-hooks-fetch-data : useEffect doesn't support async func
+         
+         dont print state in useEffect , it is asynchronous in nature.
