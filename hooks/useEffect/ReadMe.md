@@ -13,7 +13,7 @@ uses of useEffect :
    similar to componentDidUpdate
 
 4. useEffect(() => {},[]) : this will get executed only when component is created/mounted.  
-   similar to componentDidMount.
+   similar to componentDidMount. executes only once when component mounted/created.
 
 5. useEffect(() => {}, [myState1, myProp1]) : this will get executed when there is a change in(value of) myState1 or myProp1.  
    similar to componentDidUpdate.
