@@ -14,6 +14,7 @@ uses of useEffect :
 
 4. useEffect(() => {},[]) : this will get executed only when component is created/mounted.  
    similar to componentDidMount. executes only once when component mounted/created.
+   its like ngOnInit: executes only once: you can subscribe observer here(if it is avialable : not mandatory)
 
 5. useEffect(() => {}, [myState1, myProp1]) : this will get executed when there is a change in(value of) myState1 or myProp1.  
    similar to componentDidUpdate.
