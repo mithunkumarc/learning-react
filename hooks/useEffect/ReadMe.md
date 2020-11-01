@@ -38,3 +38,4 @@ todo :
          https://www.robinwieruch.de/react-hooks-fetch-data : useEffect doesn't support async func
          
          dont print state in useEffect , it is asynchronous in nature.
+         https://www.digitalocean.com/community/tutorials/how-to-call-web-apis-with-the-useeffect-hook-in-react
