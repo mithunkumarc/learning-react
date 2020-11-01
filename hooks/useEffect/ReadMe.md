@@ -19,3 +19,11 @@ uses of useEffect :
    similar to componentDidUpdate.
 
 6. use cleanup function inside useEffect. similar to componentWillUnmount.
+
+
+
+todo : 
+
+         list api request
+         axios
+         race condition : https://academind.com/learn/react/useeffect-abort-http-requests/
