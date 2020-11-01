@@ -9,8 +9,11 @@ export default function App() {
     .then(response => response.json())
     .then(data => setTodos(data))
   },[]);// [] : useEffect runs only once when mounted
+  
   const getUsers = () => {
-    return todos.map(todo => <li>{todo["title"]}</li>)
+    let count = 1;
+    /*list need unique key*/
+    return todos.map(todo => <li key={`${count++}${todo['id']}`}>{todo["title"]}</li>)
   }
 
   return (
