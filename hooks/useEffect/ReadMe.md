@@ -21,6 +21,10 @@ uses of useEffect :
 
 6. use cleanup function inside useEffect. similar to componentWillUnmount.
 
+7. useEffect(async () => {}) : this will raise error as useEffect doesnt work well with async function. 
+   so use it inside and call it after declaring.
+
+         useEffect(() => { //define here and call it }
 
 
 todo : 
