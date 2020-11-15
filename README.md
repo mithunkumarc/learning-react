@@ -1,5 +1,10 @@
 # learning-react
 
+
+#### learning path : 
+
+        https://github.com/gopinav/Learning-Path-Resources/blob/master/React_Learning_Path_2020.pdf
+
 #### make sure node installed :
 #### to create react project
 
