@@ -18,3 +18,38 @@ or, if you are not sure, you can benchmark both ways and make an informed descis
 As per the React docs, you may never depend on the internal mechanisms on useMemo.  
 In other words, while useMemo is supposed to be called only on dependencies change, this is not guaranteed.  
 Your app must still work perfectly well (maybe a bit slow though) if useMemo calls your callback on every render.
+
+
+#### good use case : https://dmitripavlutin.com/dont-overuse-react-usecallback/
+
+        import React from 'react';
+        import useSearch from './fetch-items';
+
+        function MyBigList({ term, onItemClick }) {
+          const items = useSearch(term);
+
+          const map = item => <div onClick={onItemClick}>{item}</div>;
+
+          return <div>{items.map(map)}</div>;
+        }
+
+        export default React.memo(MyBigList);
+        
+The list could be big, maybe hundreds of items. To prevent useless list re-renderings, you wrap it into React.memo().  
+
+The parent component of MyBigList provides a handler function to know when an item is clicked:
+
+        import React, { useCallback } from 'react';
+
+        export default function MyParent({ term }) {
+          const onItemClick = useCallback(event => {
+            console.log('You clicked ', event.currentTarget);
+          }, [term]);
+
+          return (
+            <MyBigList
+              term={term}
+              onItemClick={onItemClick}
+            />
+          );
+        }
