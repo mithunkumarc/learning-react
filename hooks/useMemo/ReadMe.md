@@ -53,3 +53,5 @@ The parent component of MyBigList provides a handler function to know when an it
             />
           );
         }
+        
+read : https://dmitripavlutin.com/use-react-memo-wisely/        
