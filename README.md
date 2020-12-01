@@ -63,6 +63,7 @@
         https://www.valentinog.com/blog/hooks/
         https://jsonworld.com/reactjs
         https://github.com/afozbek/react-demo-projects
+        https://github.com/john-smilga/react-projects : example project to practice
         
 #### material
 
