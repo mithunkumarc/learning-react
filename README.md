@@ -48,6 +48,7 @@
         https://github.com/taniarascia/react-hooks
         https://material-ui.com/
         https://www.valentinog.com/blog/hooks/
+        https://github.com/ReactTraining
 
 
 ### watch out :
