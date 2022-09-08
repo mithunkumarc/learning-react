@@ -49,6 +49,7 @@
         https://material-ui.com/
         https://www.valentinog.com/blog/hooks/
         https://github.com/ReactTraining
+        https://github.com/jmgb27/mern-crud-app
 
 
 ### watch out :
