@@ -8,6 +8,8 @@
 #### make sure node installed :
 #### to create react project
 
+        https://react.dev/learn/start-a-new-react-project
+        
         npx create-react-app my-app
         cd my-app
         npm start
