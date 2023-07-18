@@ -52,6 +52,7 @@
         https://www.valentinog.com/blog/hooks/
         https://github.com/ReactTraining
         https://github.com/jmgb27/mern-crud-app
+        https://github.com/PacktPublishing/React---The-Complete-Guide-Includes-Hooks-React-Router-and-Redux---Second-Edition-2023-
 
 
 ### watch out :
