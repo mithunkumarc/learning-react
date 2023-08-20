@@ -27,6 +27,10 @@ uses of useEffect :
    so use it inside and call it after declaring.
 
          useEffect(() => { //define here and call it }
+8. you can have multiple useEffect, used as componentDidMount, componentDidUpdate, componentWillUnmount
+
+         https://legacy.reactjs.org/docs/hooks-effect.html#tip-use-multiple-effects-to-separate-concerns
+         https://dev.to/joannaotmianowska/multiple-or-one-useeffect-4oco
 
 
 todo : 
