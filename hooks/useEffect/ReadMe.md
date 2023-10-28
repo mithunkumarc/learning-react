@@ -1,3 +1,8 @@
+#### you may not need to useEffect always
+
+      check : https://www.youtube.com/watch?v=eFGeStq8dZo
+      David khourshid
+
 ##### useEffect : like useState, useRef , useEffect can also be declared multiple times
 
 useEffect can be used as  
